@@ -1,7 +1,7 @@
 The purpose of the script is to create a copy of all files named "config.json" in a particular folder and its subfolders, with preservation of folder structure, so that the resulting backup can be copypasted back to restore all such files to the state and location they were in during the scan. It will also create a "ConfigList.txt" file with a full list of all found config.json files and the relative paths to them.
 
 For example, let's say we have a Mods folder with several subfolders.
-Mods
+```Mods
 |-LittleMods
 |       |-LittleMod1
 |       |     |-another file
@@ -16,6 +16,7 @@ Mods
     |config.json
 
 After running the script in the Mods folder, it will create the following structure:
+
 Mods
 |-ConfigBackup
 |    |-LittleMods
@@ -28,7 +29,7 @@ Mods
 |-ConfigList.txt
 |
 |-LittleMods (...)
-|-BigMod (...)
+|-BigMod (...)```
 
 The original folders will not be changed in any way, only copied.
 
