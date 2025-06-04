@@ -9,7 +9,7 @@ Mods
 |       |     |-config.json
 |       |-LittleMod2
 |       |      |-another file
-|       |     |-config.json
+|       |      |config.json
 |-BigMod
     |-another file
     |-yet another file
