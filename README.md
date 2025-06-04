@@ -8,8 +8,8 @@ Mods
 |       |     |-another file
 |       |     |-config.json
 |       |-LittleMod2
-|       |      |-another file
-|       |      |config.json
+|             |-another file
+|             |config.json
 |-BigMod
     |-another file
     |-yet another file
@@ -24,7 +24,7 @@ Mods
 |    |       |-LittleMod1
 |    |       |     |-config.json
 |    |       |-LittleMod2
-|    |       |     |-config.json
+|    |             |-config.json
 |    |-BigMod
 |        |config.json
 |-ConfigList.txt
