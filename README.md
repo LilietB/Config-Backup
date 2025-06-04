@@ -31,7 +31,7 @@ Mods
 |-LittleMods (...)
 |-BigMod (...)```
 
-The original folders will not be changed in any way, only copied.
+The original folders will not be changed in any way.
 
 
 =========INSTRUCTIONS=========
